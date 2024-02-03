@@ -1,0 +1,8 @@
+.bg-danger-light{
+  background: RGB(255,220,220);
+  border: 1px solid RGB(255,190,190);
+}
+.text-danger-dark{
+  color: RGB(150,30,30);
+}
+.fa-brands {color: white}
